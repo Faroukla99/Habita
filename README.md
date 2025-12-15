@@ -27,8 +27,14 @@ The app includes a "Habit Lab" section that gives users a detailed insight about
 ## How to install
 
 1.  First, make sure that Python 3 is installed on your machine.
-2.  You can either clone the repository or download the zip file of the source code.
-3.  This project is only utilizing standard libraries, so there is no need for any pip or extra ​‍​‌‍​‍‌​‍​‌‍​‍‌installation.
+```bash
+python --version
+```
+3.  You can either clone the repository or download the zip file of the source code, to clone this repository you run the following command:
+```bash
+git clone [https://github.com/Faroukla99/Habita.git](https://github.com/Faroukla99/Habita.git)
+```
+5.  This project is only utilizing standard libraries, so there is no need for any pip or extra ​‍​‌‍​‍‌​‍​‌‍​‍‌installation.
 
 ## How to Run the Application
 
