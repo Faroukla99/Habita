@@ -1,0 +1,8 @@
+# No external dependencies are required for this project.
+# The application runs entirely on the Python Standard Library.
+#
+# Modules used:
+# - os
+# - json
+# - datetime
+# - unittest
