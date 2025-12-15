@@ -1,22 +1,22 @@
 # Habita - Habit Tracking App
 
-Habita is a robust, text-based (CLI) habit tracking application developed in Python. It helps users create and track their habits in an efficient and flexible way by allowing multiple frequencies (i.e. Daily to Yearly).
+Habita is a solid text-based (CLI) habit tracking application built with Python. Users can define how often they want to repeat tasks - ranging from daily to yearly - as needed. Besides logging progress, it includes tools to review progress and insights of habits over time.
 
-The app features a "Habit Lab" section that gives users detailed insight about their habits and which ones are succeeding or struggling. By allowing them to create habits, track completions, and analyze their progress, it maintains positive routines and feedback loops that are necessary for habits to stick.
+The app includes a "Habit Lab" section that gives users a detailed insight about their habits and which ones are succeeding or struggling. Because it lets people set habits, mark then done, and review how far they’ve come, it supports it maintains steady positive routines and feedback loops that are necessary for habits to stick.
 
 ## Features
 
-* **Habit Management:** Create, view your list and delete habits you no longer need.
-* **Flexible Frequency:** The app supports Daily, Weekly, Monthly and Yearly habits.
-* **Tracking:** Add date autoamtically when completing a habit..
+* **Habit Tracking:** Users can create, view habit's list and delete ones they no longer need.
+* **Flexible Frequency:** The app supports Daily, Weekly, Monthly and Yearly habitsm this way users can get broad frequency selections.
+* **Tracking:** User can track their habits easily by either viewing them or analyzing their streaks explained in the Habit Lab below
 * **Analytics "Habit Lab":**
-    * Calculate longest streaks for any habit and returns winning habit.
-    * Identify struggling habits and returns most struggling habit.
-    * Option to filter habits by periodicity.
-* **Data Persistence:** All data is autoamtically saved and loaded using a local JSON database.
-* **Predefined Data:** The app comes with 5 predefined habits examples and 4 weeks of tracking data for testing and exploration.
+    * Get to Calculate longest streaks for any habit and returns winning habit.
+    * Get to Identify struggling habits and returns most struggling habit.
+    * Plus the option to filter habits by periodicity.
+* **Data:** All data is autoamtically saved and loaded using a local JSON database file.
+* **Predefined Habits:** The app comes with 5 predefined habits examples and 4 weeks of tracking data so users can test the flow of app and get an idea on how it will display and work with their personal habits. 
 
-## Technologies Used
+## Technologies
 
 * **Programming language:** Python 3.12
 * **Build Architecture:** Object-Oriented Programming (OOP)
@@ -24,11 +24,11 @@ The app features a "Habit Lab" section that gives users detailed insight about t
 * **Testing:** Unittest framework
 * **Modules:** `datetime`, `json`, `os`, `unittest` (Standard Python Libraries)
 
-## Installation
+## How to install
 
-1.  **First thing:** Make sure that Python 3 is installed on your computer.
-2.  **Get the code:** Clone the repository or download the zip file of the source code.
-3.  **No Extras Needed:** This project is only utilizing standard libraries, therefore, there is no need for any pip ​‍​‌‍​‍‌​‍​‌‍​‍‌installation.
+1.  First, make sure that Python 3 is installed on your machine.
+2.  You can either clone the repository or download the zip file of the source code.
+3.  This project is only utilizing standard libraries, so there is no need for any pip or extra ​‍​‌‍​‍‌​‍​‌‍​‍‌installation.
 
 ## How to Run the Application
 
